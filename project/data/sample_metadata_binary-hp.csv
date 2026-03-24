@@ -1,0 +1,30 @@
+Sample_ID,Hp_Status_binary,label_binary,Hp_CagA_Status,Score
+P001Z12,H.p.-,0,H.p.-,not aplicable
+P001Z13,H.p.-,0,H.p.-,not aplicable
+P001Z14,H.p.-,0,H.p.-,not aplicable
+P001Z18,H.p.-,0,H.p.-,not aplicable
+P002Z18,H.p.-,0,H.p.-,not aplicable
+P003Z10,H.p.-,0,H.p.-,not aplicable
+P003Z15,H.p.+,1,H.p.+/CagA-,2+
+P004Z17,H.p.-,0,H.p.-,not aplicable
+P005Z08,H.p.-,0,H.p.-,not aplicable
+P007Z08,H.p.-,0,H.p.-,not aplicable
+P008Z08,H.p.+,1,H.p.+/CagA+,3+
+P008Z17,H.p.+,1,H.p.+/CagA-,2+
+P021Z12,H.p.+,1,H.p.+/CagA+,3+
+P022Z12,H.p.+,1,H.p.+/CagA-,3+
+P022Z13,H.p.+,1,H.p.+/CagA-,2+
+P022Z17,H.p.+,1,H.p.+/CagA+,2+
+P029Z13,H.p.+,1,H.p.+/CagA+,3+
+P033Z12,H.p.+,1,H.p.+/CagA-,1+
+P045Z10A,H.p.+,1,H.p.+/CagA+,3+
+P047Z15,H.p.+,1,H.p.+/CagA+,2+
+P052Z10,H.p.+,1,H.p.+/CagA-,3+
+P058Z14,H.p.+,1,H.p.+/CagA-,3+
+P060Z15,H.p.+,1,H.p.+/CagA+,2+
+P061Z10,H.p.+,1,H.p.+/CagA+,3+
+P062Z14,H.p.+,1,H.p.+/CagA+,3+
+P066Z10,H.p.+,1,H.p.+/CagA-,2+
+P080Z15,H.p.+,1,H.p.+/CagA-,2+
+P107Z15,H.p.+,1,H.p.+/CagA-,2+
+P121Z15,H.p.+,1,H.p.+/CagA+,2+
