@@ -17,23 +17,24 @@ NeuralNetworks-Group6/
 |-- README.md
 |-- ClassPresentations/
 |   |-- DeepNN/
-|   |   `-- deep-NN-06.ipynb
-|   `-- ShallowNN/
-|       `-- shallow-NN-6.ipynb
+|   |   |-- deep-NN-06.ipynb
+|   |   |-- deep-NN-06-inception.ipynb
+|   |-- ShallowNN/
+|       |-- shallow-NN-6.ipynb
 |-- project/
 |   |-- data/
 |   |   |-- microbioma_aumentado_gan_CLR.csv
 |   |   |-- otu_genus_clr_prevfiltered-hp.csv
 |   |   |-- otu_genus_clr_prevfiltered-nhp.csv
 |   |   |-- sample_metadata_binary-hp.csv
-|   |   `-- sample_metadata_binary-nhp.csv
+|   |   |-- sample_metadata_binary-nhp.csv
 |   |-- final/
 |   |   |-- Notebooks/
 |   |   |   |-- Analisis_Resultados_Deep_vs_Shallow_actualizado.ipynb
 |   |   |   |-- Entrega2-DeepNeuralNetwork.ipynb
 |   |   |   |-- Entrega2-GANComplementada.ipynb
-|   |   |   `-- Entrega2ShallowMLP_DatosGAN.ipynb
-|   |   `-- report/
+|   |   |   |-- Entrega2ShallowMLP_DatosGAN.ipynb
+|   |   |-- report/
 |   |-- progress/
 |   |   |-- notebooks/
 |   |   |   |-- a-preanalisis.ipynb
@@ -42,9 +43,9 @@ NeuralNetworks-Group6/
 |   |   |   |-- Entrega1Autoencoders.ipynb
 |   |   |   |-- Entrega1ShallowGAN.ipynb
 |   |   |   |-- Entrega1ShallowMLP.ipynb
-|   |   |   `-- Shalow_vae_gan_microbiome.ipynb
-|   |   `-- report/
-|   `-- proposal/
+|   |   |   |-- Shalow_vae_gan_microbiome.ipynb
+|   |   |-- report/
+|   |-- proposal/
 ```
 
 ## Final Deliverables
